@@ -1774,128 +1774,69 @@ body {
 .cid-qIISlLXj7n {
   background-image: url("../../../assets/images/asset-6-2000x1340.jpg");
 }
-.cid-s2VTAfZs95 {
+.cid-s3H4r4Z8su {
   padding-top: 60px;
-  padding-bottom: 15px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-s2VTAfZs95 .mbr-section-subtitle {
+.cid-s3H4r4Z8su .mbr-section-subtitle {
   color: #767676;
 }
-.cid-s2VTAfZs95 H2 {
-  color: #ef850f;
+.cid-s3H4r4Z8su .media-container-row {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
 }
-.cid-s2VT7RD5OH {
-  padding-top: 15px;
-  padding-bottom: 90px;
-  background-color: #ffffff;
+.cid-s3H4r4Z8su .mbr-text {
+  color: #ffa81a;
 }
-.cid-s2VT7RD5OH .card-img {
-  background-color: #fff;
-}
-.cid-s2VT7RD5OH .card-box {
-  padding: 2rem;
-  background-color: #ffffff;
-}
-.cid-s2VT7RD5OH h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-}
-.cid-s2VT7RD5OH p {
-  text-align: left;
-}
-.cid-s2VT7RD5OH .mbr-text {
+.cid-s3H4r4Z8su .mbr-author-desc {
+  display: block;
   color: #767676;
 }
-.cid-s2VT7RD5OH .card-wrapper {
-  height: 100%;
-  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
-  transition: box-shadow 0.3s;
+.cid-s3H4r4Z8su .mbr-author-name {
+  color: #767676;
 }
-.cid-s2VT7RD5OH .card-wrapper:hover {
-  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
-  transition: box-shadow 0.3s;
+.cid-s3H4r4Z8su .mbr-testimonial .panel-item {
+  background-color: #ffffff;
 }
-@media (min-width: 992px) {
-  .cid-s2VT7RD5OH .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
+.cid-s3H4r4Z8su .mbr-testimonial .card-block {
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  padding: 2.4rem 2.4rem 0 2.4rem;
 }
-.cid-s2VT7RD5OH .card-title {
-  text-align: center;
-  color: #ef850f;
-}
-.cid-s2VzFs9dEJ {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-color: #cccccc;
-}
-.cid-s2VzFs9dEJ .mbr-section-subtitle {
-  color: #232323;
-  text-align: center;
-  font-weight: 300;
-}
-.cid-s2VzFs9dEJ .step {
-  width: 64px;
-  height: 64px;
-  font-size: 32px;
+.cid-s3H4r4Z8su .mbr-testimonial .card-block .testimonial-photo {
+  display: inline-block;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1.6rem;
+  overflow: hidden;
   border-radius: 50%;
-  border: 2px solid #ffffff;
 }
-@media (max-width: 767px) {
-  .cid-s2VzFs9dEJ .step {
-    width: 48px;
-    height: 48px;
-    font-size: 24px;
+.cid-s3H4r4Z8su .mbr-testimonial .card-block .testimonial-photo img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-s3H4r4Z8su .mbr-testimonial .card-footer {
+  padding-bottom: 2.4rem;
+  border-top: 0;
+  padding-top: 1rem;
+  word-wrap: break-word;
+  word-break: break-word;
+  background: none;
+}
+@media (max-width: 300px) {
+  .cid-s3H4r4Z8su .testimonial-photo {
+    width: 100% !important;
+    height: auto !important;
   }
 }
-.cid-s2VzFs9dEJ .separline {
-  position: relative;
-}
-.cid-s2VzFs9dEJ .separline:after {
-  top: 68px;
-  left: 30px;
-  position: absolute;
-  content: "";
-  width: 2px;
-  height: calc(100% - (32px + 4px) * 2);
-  background-color: #ffffff;
-}
-@media (max-width: 767px) {
-  .cid-s2VzFs9dEJ .separline:after {
-    top: 52px;
-    left: 22px;
-    height: calc(100% - 56px);
-  }
-}
-.cid-s2VzFs9dEJ .media-block {
-  flex-shrink: 0;
-  -webkit-flex-shrink: 0;
-}
-@media (min-width: 992px) {
-  .cid-s2VzFs9dEJ .media-block {
-    padding-right: 2rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s2VzFs9dEJ .media-block {
-    flex-basis: 100%;
-    -webkit-flex-basis: 100%;
-    padding-bottom: 2rem;
-  }
-}
-.cid-s2VzFs9dEJ .mbr-section-title {
-  color: #ef850f;
-}
-.cid-s2VzFs9dEJ .mbr-step-text {
-  color: #232323;
+.cid-s3H4r4Z8su H2 {
+  color: #ffa81a;
 }
 .cid-s2VHXMJHbk {
-  padding-top: 75px;
+  padding-top: 0px;
   padding-bottom: 0px;
   background-color: #ffffff;
 }
@@ -1903,7 +1844,10 @@ body {
   color: #767676;
 }
 .cid-s2VHXMJHbk B {
-  color: #ef850f;
+  color: #ffa81a;
+}
+.cid-s2VHXMJHbk H2 {
+  color: #000000;
 }
 .cid-s2VCrZsL7V {
   padding-top: 0px;
@@ -1926,7 +1870,7 @@ body {
 .cid-s2VIm87Cv0 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #2e2e2e;
+  background-color: #000000;
 }
 @media (max-width: 767px) {
   .cid-s2VIm87Cv0 .content {
