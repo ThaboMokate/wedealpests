@@ -558,6 +558,9 @@
             },
             "H2": {
               "color": "#ffa81a"
+            },
+            "B": {
+              "color": "#ffa81a"
             }
           },
           "_name": "testimonials1",
